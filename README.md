@@ -2,4 +2,8 @@
 My Training
 This is for Project PTSPI
 **Planning**
-*Integration*
+           Shruthi
+           Seetha
+**Integration**
+           Leena
+
